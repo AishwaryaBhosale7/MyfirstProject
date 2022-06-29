@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace MyfirstProject
 {
     internal class Program
@@ -12,7 +13,7 @@ namespace MyfirstProject
         {
             string name = "Aishu";
             int number = 1;
-            Console.WriteLine("Name is \v" +name);
+            Console.WriteLine("My Name is " +name+ "& number is "+number);
                 Console.ReadKey();
         }
     }
