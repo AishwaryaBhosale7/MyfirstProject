@@ -13,7 +13,7 @@ namespace MyfirstProject
         {
             string name = "Aishu";
             int number = 1;
-            Console.WriteLine("My Name is " +name+ "& number is "+number);
+            Console.WriteLine("My Name is " +name);
                 Console.ReadKey();
         }
     }
